@@ -4,8 +4,8 @@ This is smart contract that initialize and deposite and withdraw and claim Token
 
 ## 📞 **Stay Connected**
 
-Gmail: tom.kinddev@gmail.com
+Gmail: benjamin.bigdev@gmail.com
 
-Telegram: [@erikerik116](https://t.me/erikerik116)
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
 
-Discord: @erikerik116
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
